@@ -1,0 +1,11 @@
+name: bf528_scrnaseq
+channels:
+- conda-forge
+- bioconda
+
+dependencies:
+- scanpy=1.10.1
+- python-igraph
+- leidenalg
+- jupyterlab=4.1.2
+- celltypist=1.6.2
